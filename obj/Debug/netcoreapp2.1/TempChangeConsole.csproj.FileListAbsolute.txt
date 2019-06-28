@@ -1,0 +1,11 @@
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\bin\Debug\netcoreapp2.1\TempChangeConsole.deps.json
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\bin\Debug\netcoreapp2.1\TempChangeConsole.runtimeconfig.json
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\bin\Debug\netcoreapp2.1\TempChangeConsole.runtimeconfig.dev.json
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\bin\Debug\netcoreapp2.1\TempChangeConsole.dll
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\bin\Debug\netcoreapp2.1\TempChangeConsole.pdb
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\obj\Debug\netcoreapp2.1\TempChangeConsole.csprojAssemblyReference.cache
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\obj\Debug\netcoreapp2.1\TempChangeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\obj\Debug\netcoreapp2.1\TempChangeConsole.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\obj\Debug\netcoreapp2.1\TempChangeConsole.AssemblyInfo.cs
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\obj\Debug\netcoreapp2.1\TempChangeConsole.dll
+C:\Users\Admin\Source\repos\TempChangeConsole\TempChangeConsole\obj\Debug\netcoreapp2.1\TempChangeConsole.pdb
